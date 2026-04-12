@@ -126,4 +126,42 @@ terraform apply
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+# 🏗️ ARQUITECTURA TERRAFORM
+
+---
+<img width="1201" height="2365" alt="arquitectura" src="https://github.com/user-attachments/assets/38194738-56a6-4390-8624-e5c10357d9ce" />
+
+
+Se realizo la creación de tres endpoints funcionales totalmente
+
+Terminal de acceso Trabajadores
+
+https://d2oixn9k6l57iy.cloudfront.net
+
+PANEL RRHH 
+
+USUARIO: rrhh
+CONTRASEÑA: Rrhh2024!
+ 
+https://d2oixn9k6l57iy.cloudfront.net/rrhh/index.html
+
+Panel de Auditoria o administración
+
+Contraseña: Admin2024!
+
+https://d2oixn9k6l57iy.cloudfront.net/auditoria/index.html
+
+
+Adcionalmente agregamos capturas de nuestros endpoints y tambien de nuestros servicios de amazon utilizados
+
+
+
+
+
+
+
+
+
+
+
 
