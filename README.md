@@ -154,10 +154,25 @@ https://d2oixn9k6l57iy.cloudfront.net/auditoria/index.html
 
 Adcionalmente agregamos capturas de nuestros endpoints y tambien de nuestros servicios de amazon utilizados
 
+APIs utilizadas
 
+<img width="1302" height="440" alt="imagen" src="https://github.com/user-attachments/assets/331f8e35-7f17-42cb-9d19-3695e44378d4" />
 
+ROLES UTILIZADOS 
 
+<img width="1359" height="431" alt="imagen" src="https://github.com/user-attachments/assets/ce9ca782-5a32-4cf8-a9f7-43f60c852680" />
 
+BUCKETS CREADOS 
+
+<img width="762" height="262" alt="imagen" src="https://github.com/user-attachments/assets/b9dab45e-3c7a-492d-a22d-03a5b208b7af" />
+
+OBJETOS CREADOS EN EL BUCKET BIO SECURITY
+
+<img width="1131" height="421" alt="imagen" src="https://github.com/user-attachments/assets/86294ff6-884b-4090-b6b4-99f1696258b6" />
+
+LAMBDAS UTILIZADAS
+
+<img width="1131" height="224" alt="imagen" src="https://github.com/user-attachments/assets/3b754248-a915-4ed7-a0e8-a10d294af5e9" />
 
 
 
