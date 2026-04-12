@@ -174,8 +174,26 @@ LAMBDAS UTILIZADAS
 
 <img width="1131" height="224" alt="imagen" src="https://github.com/user-attachments/assets/3b754248-a915-4ed7-a0e8-a10d294af5e9" />
 
+COLECCIONES CREADAS 
+
+<img width="979" height="418" alt="imagen" src="https://github.com/user-attachments/assets/e03a3bec-881a-4d0b-974b-a6bf87636d72" />
 
 
+SERVICIOS DE BASE DE DATOS 
+
+<img width="1366" height="287" alt="imagen" src="https://github.com/user-attachments/assets/26e2b7bc-0d2f-486c-8789-88577472bfd6" />
+
+CLOUD FRONT
+
+<img width="1191" height="111" alt="imagen" src="https://github.com/user-attachments/assets/5ed66de7-9d4a-45a1-bc35-6d03d9964dc3" />
+
+USO DE SERVICIOS DE COGNITO 
+
+<img width="1364" height="278" alt="imagen" src="https://github.com/user-attachments/assets/58a3733c-ae87-4b37-89de-1abb5fe31682" />
+
+EL USO DE KMS PERMITE ASEGURAR Y CIFRAR LAS CAPTURAS DE LAS IMAGENES LO CUAL PARA NUESTRO PROYECTO ASEGURA LA PROTECCION DE DATOS DE LOS USUARIOS REGISTRADOS EN NUESTRA PLATAFORMA.
+
+<img width="1364" height="278" alt="imagen" src="https://github.com/user-attachments/assets/c1cc229f-c99e-41d7-bea5-8cc48988f427" />
 
 
 
