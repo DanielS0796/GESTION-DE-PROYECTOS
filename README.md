@@ -6,9 +6,12 @@ Sistema de reconocimiento facial para control de acceso a instalaciones, desarro
 
 ---
 
-## 🏗️ Arquitectura
+# 🏗️ ARQUITECTURA TERRAFORM
 
-![Arquitectura](arquitectura.png)
+---
+<img width="1201" height="2365" alt="arquitectura" src="https://github.com/user-attachments/assets/38194738-56a6-4390-8624-e5c10357d9ce" />
+
+
 
 El sistema está construido sobre una arquitectura **100% serverless** en AWS, lo que elimina la necesidad de gestionar servidores, VPCs o infraestructura tradicional. AWS administra internamente la disponibilidad, escalabilidad y seguridad de la red.
 
@@ -125,12 +128,6 @@ terraform apply
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-# 🏗️ ARQUITECTURA TERRAFORM
-
----
-<img width="1201" height="2365" alt="arquitectura" src="https://github.com/user-attachments/assets/38194738-56a6-4390-8624-e5c10357d9ce" />
-
 
 Se realizo la creación de tres endpoints funcionales totalmente
 
