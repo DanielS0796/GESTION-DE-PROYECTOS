@@ -96,10 +96,10 @@ El proyecto usa **Terraform** para aprovisionar toda la infraestructura de forma
 
 ### Despliegue
 ```bash
-git clone https://github.com/TU_USUARIO/biosecurity-rekognition
+git clone https://github.com/DanielS0796/biosecurity-rekognition
 cd biosecurity-rekognition
+aws configure        # credenciales AWS para replicar
 terraform init
-terraform plan
 terraform apply
 ```
 
