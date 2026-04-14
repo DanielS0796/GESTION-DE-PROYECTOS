@@ -140,14 +140,27 @@ https://d2oixn9k6l57iy.cloudfront.net
 
 PANEL RRHH 
 
-USUARIO: rrhh
-CONTRASEÑA: Rrhh2024!
+USUARIO 1: dfguatibonza@ucompensar.edu.co
+CONTRASEÑA: clave123
+
+USUARIO 2: jjcucaita@ucompensar.edu.co 
+CONTRASEÑA: clave123
+
+USUARIO 3: lvovalle@ucompensar.edu.co
+CONTRASEÑA: clave123
  
 https://d2oixn9k6l57iy.cloudfront.net/rrhh/index.html
 
 Panel de Auditoria o administración
 
-Contraseña: Admin2024!
+USUARIO 1: dfguatibonza@ucompensar.edu.co
+CONTRASEÑA: clave123
+
+USUARIO 2: jjcucaita@ucompensar.edu.co 
+CONTRASEÑA: clave123
+
+USUARIO 3: lvovalle@ucompensar.edu.co
+CONTRASEÑA: clave123
 
 https://d2oixn9k6l57iy.cloudfront.net/auditoria/index.html
 
