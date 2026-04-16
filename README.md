@@ -8,11 +8,12 @@ Sistema de reconocimiento facial para control de acceso a instalaciones, desarro
 
 # 🏗️ ARQUITECTURA TERRAFORM
 
-<img width="3443" height="1349" alt="diagrama" src="https://github.com/user-attachments/assets/ea8e8e61-7066-4103-b115-da61794f23ec" />
+<img width="3443" height="1349" alt="arquitectura" src="https://github.com/user-attachments/assets/b7218201-72d9-480f-b9a7-1d72784b58d7" />
 
 
 ---
-<img width="1201" height="2365" alt="arquitectura" src="https://github.com/user-attachments/assets/38194738-56a6-4390-8624-e5c10357d9ce" />
+<img width="1885" height="1443" alt="arquitectura" src="https://github.com/user-attachments/assets/4b15219c-3a68-4cb6-a641-a94839da6963" />
+
 
 
 
