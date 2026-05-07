@@ -135,24 +135,9 @@ terraform apply
 
 Se realizo la creación de tres endpoints funcionales totalmente
 
-Terminal de acceso Trabajadores
+Terminal de acceso PWA 
 
-https://d2oixn9k6l57iy.cloudfront.net
-
-PANEL RRHH 
-
-USUARIO 1: dfguatibonza
-CONTRASEÑA: 123456
- 
-https://d2oixn9k6l57iy.cloudfront.net/rrhh/index.html
-
-Panel de Auditoria o administración
-
-
-USUARIO 1: dfguatibonza
-CONTRASEÑA: 123456
-
-https://d2oixn9k6l57iy.cloudfront.net/auditoria/index.html
+https://main.d9zl5bthu8cwb.amplifyapp.com/
 
 
 Adcionalmente agregamos capturas de nuestros endpoints y tambien de nuestros servicios de amazon utilizados
